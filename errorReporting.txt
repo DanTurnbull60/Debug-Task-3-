@@ -1,0 +1,177 @@
+ERROR REPORT - LEVEL 3, GOLD
+==============================
+
+Below you will write your debugging report by answering the following questions about the 15 errors you found.
+
+-----------------------------------------------------------------------
+HTML ERRORS - You will find the following errors in index.html
+ERROR 1
+=======
+
+1. What line did you find the error?
+11
+
+
+2.What was the error and how did you fix it?
+It said gif not jpg so i changed it to say jpg instead so the image would load
+
+
+ERROR 2
+=======
+
+1. What line did you find the error?
+
+10
+
+2.What was the error and how did you fix it?
+it said h with no size so i changed it to have a size of 1
+
+
+
+ERROR 3
+=======
+
+1. What line did you find the error?
+11
+
+
+2.What was the error and how did you fix it?
+It was written as para wwhich isnt how you get a paragraph but it was supoposed to be a second header so i changed it to h2
+
+
+
+ERROR 4
+=======
+
+1. What line did you find the error?
+
+
+
+2.What was the error and how did you fix it?
+
+
+
+ERROR 5
+=======
+
+1. What line did you find the error?
+
+
+
+2.What was the error and how did you fix it?
+
+
+
+
+ERROR 6
+=======
+
+1. What line did you find the error?
+
+
+
+2.What was the error and how did you fix it?
+
+
+
+
+ERROR 7
+=======
+
+1. What line did you find the error?
+
+
+
+2.What was the error and how did you fix it?
+
+
+
+ERROR 8
+=======
+
+1. What line did you find the error?
+
+
+
+2.What was the error and how did you fix it?
+
+
+
+________________________________________________________________________
+
+CSS ERRORS - You will find the following errors in style.css
+
+ERROR 9
+=======
+
+1. What line did you find the error?
+
+
+
+2.What was the error and how did you fix it?
+
+
+
+ERROR 10
+=======
+
+1. What line did you find the error?
+
+
+
+2.What was the error and how did you fix it?
+
+
+
+ERROR 11
+=======
+
+1. What line did you find the error?
+
+
+
+2.What was the error and how did you fix it?
+
+
+
+ERROR 12
+=======
+
+1. What line did you find the error?
+
+
+
+2.What was the error and how did you fix it?
+
+
+
+ERROR 13
+=======
+
+1. What line did you find the error?
+
+
+
+2.What was the error and how did you fix it?
+
+
+
+ERROR 14
+=======
+
+1. What line did you find the error?
+
+
+
+2.What was the error and how did you fix it?
+
+
+ERROR 15
+=======
+
+1. What line did you find the error?
+
+
+
+2.What was the error and how did you fix it?
+

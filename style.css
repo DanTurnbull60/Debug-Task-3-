@@ -1,0 +1,57 @@
+
+div {
+  background-color:#000000;
+  text-align: center;
+  overflow: hidden;
+  border: 3px dotted #ffff;
+  width: 600px;
+}
+
+p {
+  font-weight: bold;
+  font-face: sans-serif;
+  font-size: 16pt;
+}
+
+birthday{
+ color: rgb(238, 54, 13);
+}
+
+birthplace{
+  color:#FFBD33;
+}
+
+#starsign{
+  color: #DBFF33;
+
+
+#website{
+  color: #75FF33;
+}
+
+#firstsingle{
+  font-size: 16pt;
+  text-align: right;
+  text-decoration: underline;
+  color: #33FFBD;
+}
+
+#musicvideo{
+  font-size: 16pt;
+  text-position: left;
+  text-decoration: underline;
+  color: #33DBFF;
+}
+
+h1 {
+  color:#ffff;
+}
+
+h2 {
+  color: #BD33FF;
+}
+
+img{
+  height:2.5px;
+  
+}
