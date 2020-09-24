@@ -13,7 +13,7 @@ ERROR 1
 
 
 2.What was the error and how did you fix it?
-It said gif not jpg so i changed it to say jpg instead so the image would load
+It said gif not jpg so i changed it to say jpg from Gif instead so the image would load
 
 
 ERROR 2
