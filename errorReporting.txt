@@ -44,22 +44,22 @@ ERROR 4
 =======
 
 1. What line did you find the error?
-
+15
 
 
 2.What was the error and how did you fix it?
-
+Birthday not in quotes
 
 
 ERROR 5
 =======
 
 1. What line did you find the error?
-
+18
 
 
 2.What was the error and how did you fix it?
-
+identification changed to id and </a> to <a href>
 
 
 
@@ -67,11 +67,11 @@ ERROR 6
 =======
 
 1. What line did you find the error?
-
+20
 
 
 2.What was the error and how did you fix it?
-
+closing </p> missing after <iframe>
 
 
 
@@ -79,22 +79,22 @@ ERROR 7
 =======
 
 1. What line did you find the error?
-
+25
 
 
 2.What was the error and how did you fix it?
-
+changed </header> to </head> 
 
 
 ERROR 8
 =======
 
 1. What line did you find the error?
-
+28
 
 
 2.What was the error and how did you fix it?
-
+changed <html> to </html>
 
 
 ________________________________________________________________________
@@ -105,73 +105,73 @@ ERROR 9
 =======
 
 1. What line did you find the error?
-
+12 in css
 
 
 2.What was the error and how did you fix it?
-
+font-face changed to font-family
 
 
 ERROR 10
 =======
 
 1. What line did you find the error?
-
+16 + 20
 
 
 2.What was the error and how did you fix it?
-
+put a # before birthday + birthdayplace
 
 
 ERROR 11
 =======
 
 1. What line did you find the error?
-
+26
 
 
 2.What was the error and how did you fix it?
-
+mo closing bracket
 
 
 ERROR 12
 =======
 
 1. What line did you find the error?
-
+34
 
 
 2.What was the error and how did you fix it?
-
+text-align: right changed to text-aligen: left 
 
 
 ERROR 13
 =======
 
 1. What line did you find the error?
-
+41
 
 
 2.What was the error and how did you fix it?
-
+text-position changed to text-align
 
 
 ERROR 14
 =======
 
 1. What line did you find the error?
-
+55
 
 
 2.What was the error and how did you fix it?
-
+changed height 2.5px to 350px
 
 ERROR 15
 =======
 
 1. What line did you find the error?
-
+56
 
 
 2.What was the error and how did you fix it?
-
+width was missing so i width 300px

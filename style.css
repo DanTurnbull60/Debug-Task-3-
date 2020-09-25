@@ -9,21 +9,21 @@ div {
 
 p {
   font-weight: bold;
-  font-face: sans-serif;
+  font-family: sans-serif;
   font-size: 16pt;
 }
 
-birthday{
+#birthday{
  color: rgb(238, 54, 13);
 }
 
-birthplace{
+#birthplace{
   color:#FFBD33;
 }
 
 #starsign{
   color: #DBFF33;
-
+}
 
 #website{
   color: #75FF33;
@@ -31,14 +31,14 @@ birthplace{
 
 #firstsingle{
   font-size: 16pt;
-  text-align: right;
+  text-align: left;
   text-decoration: underline;
   color: #33FFBD;
 }
 
 #musicvideo{
   font-size: 16pt;
-  text-position: left;
+  text-align: left;
   text-decoration: underline;
   color: #33DBFF;
 }
@@ -52,6 +52,6 @@ h2 {
 }
 
 img{
-  height:2.5px;
-  
+  height:350px;
+  width:300px;
 }
